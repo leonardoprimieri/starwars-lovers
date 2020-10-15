@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.0b0d37eb.chunk.css",
-    "main.js": "/static/js/main.5c00221d.chunk.js",
-    "main.js.map": "/static/js/main.5c00221d.chunk.js.map",
+    "main.js": "/static/js/main.4cdf41ec.chunk.js",
+    "main.js.map": "/static/js/main.4cdf41ec.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.929b068b.js",
     "runtime-main.js.map": "/static/js/runtime-main.929b068b.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.39f43ee8.chunk.js": "/static/js/2.39f43ee8.chunk.js",
-    "static/js/2.39f43ee8.chunk.js.map": "/static/js/2.39f43ee8.chunk.js.map",
+    "static/js/2.1dac224b.chunk.js": "/static/js/2.1dac224b.chunk.js",
+    "static/js/2.1dac224b.chunk.js.map": "/static/js/2.1dac224b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.afb81a9da0c21e18568853935c991215.js": "/precache-manifest.afb81a9da0c21e18568853935c991215.js",
+    "precache-manifest.82ff338a4e1c9151b8cc35c00b208f91.js": "/precache-manifest.82ff338a4e1c9151b8cc35c00b208f91.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.0b0d37eb.chunk.css.map": "/static/css/main.0b0d37eb.chunk.css.map",
-    "static/js/2.39f43ee8.chunk.js.LICENSE.txt": "/static/js/2.39f43ee8.chunk.js.LICENSE.txt",
+    "static/js/2.1dac224b.chunk.js.LICENSE.txt": "/static/js/2.1dac224b.chunk.js.LICENSE.txt",
     "static/media/al.jpg": "/static/media/al.34a9d8d0.jpg",
     "static/media/anewhope.jpg": "/static/media/anewhope.256b9dfc.jpg",
     "static/media/attackOfTheClones.jpg": "/static/media/attackOfTheClones.46ced14e.jpg",
@@ -47,8 +47,8 @@
   "entrypoints": [
     "static/js/runtime-main.929b068b.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.39f43ee8.chunk.js",
+    "static/js/2.1dac224b.chunk.js",
     "static/css/main.0b0d37eb.chunk.css",
-    "static/js/main.5c00221d.chunk.js"
+    "static/js/main.4cdf41ec.chunk.js"
   ]
 }

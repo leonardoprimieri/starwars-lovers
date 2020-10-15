@@ -19,6 +19,11 @@ export const Container = styled(motion.div)`
 export const Content = styled.section`
   width: 50%;
   height: 70%;
+
+  @media (max-width: 640px) {
+    width: 70%;
+    height: auto;
+  }
   border-radius: 8px;
   padding: 24px;
 

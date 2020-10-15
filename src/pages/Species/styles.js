@@ -21,7 +21,6 @@ export const Container = styled.div`
   overflow: hidden;
 
   h1 {
-    z-index: 999;
     color: var(--white-color);
     margin-top: 50px;
     font-family: 'Archivo', sans-serif;

@@ -7,7 +7,7 @@ const ModalSpecie = ({ modalData, setIsModalOpen }) => {
     <Container>
       <div className="modal--header">
         <h2>{modalData.name}</h2>
-        <FiX onClick={() => setIsModalOpen(false)} />
+        <FiX size={50} onClick={() => setIsModalOpen(false)} />
       </div>
       <div className="modal--body">
         <span>Average Height: {modalData.average_height}</span>

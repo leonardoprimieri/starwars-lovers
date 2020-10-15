@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import { HashRouter, Switch, Route } from 'react-router-dom';
+import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import Header from '../components/Header';
 
 import Films from '../pages/Films';
@@ -29,7 +29,7 @@ function Routes() {
   };
 
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Header isOpen={isOpen} setIsOpen={setIsOpen} />
       <motion.svg
         width="24"
@@ -71,7 +71,7 @@ function Routes() {
         <Route path="/species" component={Species} />
         <Route path="/login" component={Login} />
       </Switch>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
