@@ -11,7 +11,7 @@ const Home = () => {
         <Content>
           Creator:
           <h2>
-            Nome: <span>Leonardo Merlo Primieri</span>
+            Name: <span>Leonardo Merlo Primieri</span>
           </h2>
           <h2>
             RA: <span>1121748</span>
