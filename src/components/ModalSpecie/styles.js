@@ -8,7 +8,10 @@ export const Container = styled.div`
   height: 100%;
   color: var(--white-color);
   font-family: 'Archivo', sans-serif;
-  background-color: #000;
+  background-image: url('https://i.pinimg.com/originals/0d/54/a1/0d54a1ab67c46715b04fddb94a9d13bb.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  box-shadow: inset 0 0 0 400px rgba(0, 0, 0, 0.9);
   z-index: 99999;
 
   @media (max-width: 640px) {
